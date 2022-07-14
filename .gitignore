@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Custom folder not sync
+data/*.csv
+.env
+
 # C extensions
 *.so
 
