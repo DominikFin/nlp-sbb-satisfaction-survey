@@ -4,7 +4,7 @@ __pycache__/
 *$py.class
 
 # Custom folder not sync
-data/*.csv
+data/Data*
 .env
 
 # C extensions
